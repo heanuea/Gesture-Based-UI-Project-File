@@ -1,4 +1,8 @@
 ![Leap Motion/Aeduino](Images/Head.png)
+
+### **_Members_**
+- [Alan Heanue](https://github.com/heanuea)
+- [Garret Tonra](https://github.com/gtonra89)
 Develop an application with a Natural User Interface. You have a choice of technologies available to you and an opportunity 
 to combine a lot of technology that you have worked with over the past four years.
 
@@ -20,10 +24,7 @@ We decided to drop the Rasberri pi as there was a lot of work with the stream to
 The Project involves the leap motion and connecting it with the Arduino Using Node Js Librarys Running a few commands this will lead to hand gestures from the lep motion 
 and sending a signal to a circuit board with led lights that change color with the different gestures. 
 There is a video demo of the project below. 
-
-### **_Members_**
-- Alan Heanue 
-- Garret Tonra 
+ 
 
 ## **_Technology we are using_**
 Here is some of technologys we are using You will need to download the Following. 
