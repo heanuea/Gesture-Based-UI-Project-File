@@ -14,7 +14,7 @@ Was to use leap motion with the rasberry pi work between them was going to a str
 **concept Two**
 We decided to drop the Rasberri pi as there was a lot of work with the stream to connect time was not our side so we decided to for a leap to adruino with a breadboard circuit with LED lights attached. 
 
-[![N|Solid](Archticture(1).png)]
+[![N|Solid](Archticture1.png)]
 
 ## **_OverView Of the Project_**
 ### **_Members_**
