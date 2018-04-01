@@ -38,6 +38,19 @@ The Leap Motion controller is a small USB peripheral device which is designed to
 The smaller observation area and higher resolution of the device differentiates the product from the Kinect, which is more suitable for whole-body tracking in a space the size of a living room. In a demonstration to CNET, the controller was shown to perform tasks such as navigating a website, using pinch-to-zoom gestures on maps, high-precision drawing, and manipulating complex 3D data visualizations.
 
 Leap Motion initially distributed thousands of units to developers who are interested in creating applications for the device. The Leap Motion controller was first shipped in July 2013.In February 2016, Leap Motion released a major beta update to its core software. Dubbed Orion, the software is designed for hand tracking in virtual reality.
+
+
+**_Here is the procedure to install the Leap Motion SDK in Linux**
+- Download the SDK from https://www.leapmotion.com/setup/linux; you can extract this package and you will find two DEB files that can be installed on Linux.
+- Open Terminal on the extracted location and install the DEB file using the following command (for 64-bit PCs):
+
+```
+$ sudo dpkg -install leap-*-x64.deb
+```
+**_for more about downloading Leap Motion visit_**
+- https://developer.leapmotion.com/unity/#116
+
+
 ### **_Rasberry pi_**
 ### **_Adafruit 16-Channel 12-bit PWM/Servo Driver_**
 
@@ -54,5 +67,6 @@ Leap Motion initially distributed thousands of units to developers who are inter
 ## **_References_**
 - http://blog.leapmotion.com/hardware-to-software-how-does-the-leap-motion-controller-work/
 - https://en.wikipedia.org/wiki/Leap_Motion
+- https://cylonjs.com/documentation/platforms/arduino/
 - 
 ## **__**
