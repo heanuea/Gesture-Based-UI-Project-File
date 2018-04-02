@@ -120,7 +120,7 @@ This is a mini Breadboard above the holes of a breadboard allow you to easilt=y 
 - https://en.wikipedia.org/wiki/Leap_Motion
 - https://cylonjs.com/documentation/platforms/arduino/
 - https://developer.leapmotion.com/documentation/cpp/api/Leap_Classes.html
-- 
-- 
-- 
+- https://stackoverflow.com/questions/35622933/how-to-specify-registry-while-doing-npm-install-with-git-remote-url
+- https://docs.npmjs.com/cli/install
+- https://cylonjs.com/documentation/examples/cylon/annotated/leap_arduino/
 ## **__**
