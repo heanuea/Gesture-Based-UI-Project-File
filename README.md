@@ -111,11 +111,12 @@ This is a mini Breadboard above the holes of a breadboard allow you to easilt=y 
 ![N|Solid](leapd.png)
 
 2. Open another CMD window and type ``LeapControlPanel`` - This will show up the LeapMotion Control Panel where the visualiser is situated.
+
 ![N|Solid](LeapControlPanel.png)
 
-3. Finally open a Third CMD window and change directory to the downloaded & extracted repository once inside the repo type the folowing to run the project `` node gesture.js `` the program should load and the console will log any gesture movements declared in fromt of the leap-motion .
+3. Finally open a Third CMD window and change directory to the downloaded & extracted repository once inside the repo type the folowing to run the project `` node gesture.js `` the program should load and the console will log any gesture movements declared in fromt of the leap-motion.
 
-![N|Solid](node gesture.js.png)
+![N|Solid](node gesture.png)
 
 ## **_Code_**
 
