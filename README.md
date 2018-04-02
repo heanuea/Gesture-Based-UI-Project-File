@@ -88,8 +88,15 @@ For Windows: https://www.arduino.cc/en/Guide/Windows
 
 ### **_BreadBoard Circuit_**
 
+Breadboard is retangular piece of plastic with a grid of holes that allows you to easily and quickly build an electronic circuits by pushing electronic components into the holes. Here is a similar one to one we used.
+![N|Solid](Images/Orange.jpg)
+This is a mini Breadboard above the holes of a breadboard allow you to easilt=y push the leads, or metal legs which in our case are LED to hold them into place. This is soulderless breadboard as we dont need to soulder components together. There is also no bus row as we dont extra voltage or power going thrugh the board. 
 
 
+## **_Components put together_**
+![N|Solid](Images/IMG_0501.jpg)
+
+![N|Solid](Images/IMG_0502.jpg)
 
 ## **_How To Run_**
 1. Install [nodejs](http://www.nodejs.org/)
@@ -98,12 +105,22 @@ For Windows: https://www.arduino.cc/en/Guide/Windows
 4. Install Leap motion SDK
 5. With NPM Install download the Following ``Cylon, cylon-firmata, and cylon-leapmotion.``
 
+## **_When Files and packages are fully downloaded here are the terminal commands_**
 
 ## **_Code_**
+
+
+
 ## **_Presentation_**
+
+
+
 ## **_References_**
 - http://blog.leapmotion.com/hardware-to-software-how-does-the-leap-motion-controller-work/
 - https://en.wikipedia.org/wiki/Leap_Motion
 - https://cylonjs.com/documentation/platforms/arduino/
+- https://developer.leapmotion.com/documentation/cpp/api/Leap_Classes.html
+- 
+- 
 - 
 ## **__**
