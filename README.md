@@ -107,7 +107,8 @@ This is a mini Breadboard above the holes of a breadboard allow you to easilt=y 
 
 ## **_When Files and packages are fully downloaded here are the terminal commands_**
 1. Open a CMD window with administration Privaleges or as Root CMD and type ``leapd`` this will Launch the leapmotion Daemon
-- you should get a notification status saying the Daemon is running.
+you should get a notification status saying the Daemon is running.
+
 ![N|Solid](leapd.png)
 
 2. Open another CMD window and type ``LeapControlPanel`` - This will show up the LeapMotion Control Panel where the visualiser is situated.
@@ -116,7 +117,7 @@ This is a mini Breadboard above the holes of a breadboard allow you to easilt=y 
 
 3. Finally open a Third CMD window and change directory to the downloaded & extracted repository once inside the repo type the folowing to run the project `` node gesture.js `` the program should load and the console will log any gesture movements declared in fromt of the leap-motion.
 
-![N|Solid](node gesture.png)
+![N|Solid](node%20gesture.png)
 
 ## **_Code_**
 
