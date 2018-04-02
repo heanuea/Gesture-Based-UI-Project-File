@@ -94,9 +94,9 @@ This is a mini Breadboard above the holes of a breadboard allow you to easilt=y 
 
 
 ## **_Components put together_**
-![N|Solid](Images/IMG_0501.jpg)
+![N|Solid](Images/IMG_0501.jpeg)
 
-![N|Solid](Images/IMG_0502.jpg)
+![N|Solid](Images/IMG_0502.jpeg)
 
 ## **_How To Run_**
 1. Install [nodejs](http://www.nodejs.org/)
