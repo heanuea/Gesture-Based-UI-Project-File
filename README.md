@@ -57,8 +57,39 @@ $ sudo dpkg -install leap-*-x64.deb
 - https://developer.leapmotion.com/unity/#116
 
 
-### **_Rasberry pi_**
-### **_Adafruit 16-Channel 12-bit PWM/Servo Driver_**
+### **_Arduino_**
+========
+
+* Arduino is an open-source physical computing platform based on a simple I/O
+board and a development environment that implements the Processing/Wiring
+language.
+![N|Solid](Images/ARDUINO.png)
+Arduino can be used to develop stand-alone interactive objects or
+can be connected to software on your computer (e.g. Flash, Processing and MaxMSP).
+The boards can be assembled by hand or purchased preassembled; the open-source
+IDE can be downloaded for free at https://www.arduino.cc/en/Main/Software
+
+
+Installation
+------------
+1. Flash the Arduino with StandardFirmata: 
+2. Run ``Node arduino.js``
+
+Configuring Leap & Arduino
+------------
+
+
+Detailed instructions for installation in popular operating systems.  
+For Linux: https://www.arduino.cc/en/Guide/Linux (see also the Arduino playground page https://playground.arduino.cc/Learning/Linux)   
+For macOS X: https://www.arduino.cc/en/Guide/MacOSX   
+For Windows: https://www.arduino.cc/en/Guide/Windows
+
+
+
+### **_BreadBoard Circuit_**
+
+
+
 
 ## **_How To Run_**
 1. Install [nodejs](http://www.nodejs.org/)
