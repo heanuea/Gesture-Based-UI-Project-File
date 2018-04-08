@@ -235,7 +235,7 @@ check in files its under  Lookbook
 ```
 
 ## **_Video_**
-![](https://media.giphy.com/media/9Y3kN2ZhvrJFR6ZpzR/giphy.gif)
+![] (https://media.giphy.com/media/9Y3kN2ZhvrJFR6ZpzR/giphy.gif)
 
 ## **_References_**
 - http://blog.leapmotion.com/hardware-to-software-how-does-the-leap-motion-controller-work/
