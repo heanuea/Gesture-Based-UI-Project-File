@@ -1,5 +1,6 @@
 ![Leap Motion/Aeduino](Images/Head.png)
-
+.. |forthebadge made-with-Java| image:: http://ForTheBadge.com/images/badges/made-with-python.svg
+   :target: https://www.python.org/
 ### **_Members_**
 - [Alan Heanue](https://github.com/heanuea)
 - [Garret Tonra](https://github.com/gtonra89)
@@ -9,7 +10,7 @@ Develop an application with a Natural User Interface. You have a choice of techn
 to combine a lot of technology that you have worked with over the past four years.
 
 ## **_Research and Concepts_**
-So we had a lot of choice in this project and a lot of freedom we had to work in pairs so we both had Rasberry pis but wernet to sure to do with them. 
+So we had a lot of choice in this project and a lot of freedom we had to work in pairs so we both had Rasberry pis but were not to sure to do with them. 
 The college had a range of tech that we could have used for example they had [Kinect](https://en.wikipedia.org/wiki/Kinect) , [Myo Armband](https://www.myo.com/) , [Leap motiom](https://www.leapmotion.com/) 
 and also we did in lab tutorials in how to work with [Cortona](https://en.wikipedia.org/wiki/Cortana). But we wanted something where we can use the rasberry pi or even an adruino as students we didnt want to invest to much in buying much gear for that like a camera or screen for the pi, we decided to use the Leap motion.
 
@@ -23,7 +24,7 @@ and also we did in lab tutorials in how to work with [Cortona](https://en.wikipe
 ![N|Solid](Archticture1.png)
 
 ## **_OverView_**
-The Project involves the leap motion and connecting it with the Arduino Using Node Js Librarys Running a few commands this will lead to hand gestures from the lep motion 
+The Project involves the leap motion and connecting it with the Arduino Using Node Js Librarys Running a few commands this will lead to hand gestures from the leap motion 
 and sending a signal to a circuit board with led lights that change color with the different gestures. 
 There is a video demo of the project below. 
  
