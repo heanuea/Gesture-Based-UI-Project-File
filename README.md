@@ -1,6 +1,7 @@
 ![Leap Motion/Aeduino](Images/Head.png)
 
 [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+[![Generic badge](https://img.shields.io/badge/<Javascript>-<Done>-<COLOR>.svg)](https://shields.io/)
 ### **_Members_**
 - [Alan Heanue](https://github.com/heanuea)
 - [Garret Tonra](https://github.com/gtonra89)
