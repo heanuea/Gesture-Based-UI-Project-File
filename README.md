@@ -233,11 +233,9 @@ board.on('ready', function() {
 ## **_Presentation_**
 check in files its under  Lookbook
 ```
-https://media.giphy.com/media/9Y3kN2ZhvrJFR6ZpzR/giphy.gif
 
 ## **_Video_**
-! [] (https://media.giphy.com/media/9Y3kN2ZhvrJFR6ZpzR/giphy.gif)
-<iframe src="https://giphy.com/embed/9Y3kN2ZhvrJFR6ZpzR" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9Y3kN2ZhvrJFR6ZpzR">via GIPHY</a></p>
+<a href="https://imgflip.com/gif/27zuhr"><img src="https://i.imgflip.com/27zuhr.gif" title="made at imgflip.com"/></a>
 
 ## **_References_**
 - http://blog.leapmotion.com/hardware-to-software-how-does-the-leap-motion-controller-work/
