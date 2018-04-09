@@ -1,6 +1,6 @@
 ![Leap Motion/Aeduino](Images/Head.png)
-.. |forthebadge made-with-Java| image:: http://ForTheBadge.com/images/badges/made-with-python.svg
-   :target: https://www.python.org/
+
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
 ### **_Members_**
 - [Alan Heanue](https://github.com/heanuea)
 - [Garret Tonra](https://github.com/gtonra89)
