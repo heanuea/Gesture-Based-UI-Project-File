@@ -63,7 +63,7 @@ $ sudo dpkg -install leap-*-x64.deb
 
 
 ### **_Arduino_**
-[![ForTheBadge powered-by-Arduino](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-Arduino](http://ForTheBadge.com/images/badges/powered-by-Arduino.svg)](http://ForTheBadge.com)
 ========
 
 * Arduino is an open-source physical computing platform based on a simple I/O
