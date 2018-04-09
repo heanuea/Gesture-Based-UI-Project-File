@@ -230,12 +230,19 @@ board.on('ready', function() {
             led.off();
         }
     });
+
+```
 ## **_Presentation_**
 check in files its under  Lookbook
-```
 
 ## **_Video_**
 <a href="https://imgflip.com/gif/27zuhr"><img src="https://i.imgflip.com/27zuhr.gif" title="made at imgflip.com"/></a>
+
+## **_Conclusion_**
+This Project was a lot of fun we started out both having rasberri pis but the first idea or concept we had planned we ran into alot of issues with a server or service to connect the leap and rasberri pi.
+It also had alot of parts we needed to get and we didnt have time and money to go ahead we scrapped that plan and downsized it as we had the leap a very powerful tool all we needed was a few leds and a arduino. 
+Putting the whole project was very fun had to read into a small bit to electronics but Garret had knowledge of that so he put together the circuit board and Arduino we used Linux os to run the whole project, as 
+it was easier to configure the arduino. The leapmotion needed more attention on linux as it ws not as straight forward to set configure. Eventully when we got all the hardware pieced together we than had get them talking to each other that we had to do a bit of research and we found that there ws alot out there for arduino, some of the research for leap was a bit dated but still worked aftere getting them talking we had to code the gestures to turn on lights and assign a gesture to a certain LED. We spent a good week and half playing around with the technology and we are delighted with the results.
 
 ## **_References_**
 - http://blog.leapmotion.com/hardware-to-software-how-does-the-leap-motion-controller-work/
@@ -245,4 +252,4 @@ check in files its under  Lookbook
 - https://stackoverflow.com/questions/35622933/how-to-specify-registry-while-doing-npm-install-with-git-remote-url
 - https://docs.npmjs.com/cli/install
 - https://cylonjs.com/documentation/examples/cylon/annotated/leap_arduino/
-## **__**
+
