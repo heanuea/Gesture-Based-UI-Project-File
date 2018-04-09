@@ -63,7 +63,7 @@ $ sudo dpkg -install leap-*-x64.deb
 
 
 ### **_Arduino_**
-[![ForTheBadge powered-by-Arduino](http://ForTheBadge.com/images/badges/powered-by-Arduino.svg)](http://ForTheBadge.com)
+
 ========
 
 * Arduino is an open-source physical computing platform based on a simple I/O
@@ -126,6 +126,7 @@ you should get a notification status saying the Daemon is running.
 ![N|Solid](node%20gesture.png)
 
 ## **_Code_**
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 ```javascript
 "use strict";
 
@@ -242,6 +243,7 @@ board.on('ready', function() {
 check in files its under  Lookbook
 
 ## **_Video_**
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 <a href="https://imgflip.com/gif/27zuhr"><img src="https://i.imgflip.com/27zuhr.gif" title="made at imgflip.com"/></a>
 
 ## **_Conclusion_**
